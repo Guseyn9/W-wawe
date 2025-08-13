@@ -19,12 +19,12 @@
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/my-food-project)
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
-- **Rocont** — приятный сайт с JavaScript анимациями  
-  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 - **Lagoona** — красивый сайт для сети отелей с приятным дизайном  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona)
 - **High-pass** — сайт для любителей кино-фильмов, собранный с помощью Gulp сборки   
   [Демо](https://high-pass-snowy.vercel.app/) | [Код](https://github.com/Guseyn9/High-pass)
+- **Rocont** — приятный сайт с JavaScript анимациями  
+  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 
 ---
 
