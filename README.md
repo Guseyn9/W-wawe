@@ -16,7 +16,7 @@
  
   [Демо этого проекта](https://w-wawe-cyan.vercel.app/)
 - **Food-project** — мини интернет магазин на state manager Redux-Toolkit  
-  [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/Food-project)
+  [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/my-food-project)
 - **MiniAppTg** — мини-приложение для телеграмм платформы  
   [Демо](https://mini-app-tg-nu.vercel.app/) | [Код](https://github.com/Guseyn9/Mini-App-Tg/)
 - **Rocont** — приятный сайт с JavaScript анимациями  
